@@ -1,0 +1,4 @@
+const MNEMONIC = 'your mnemonic';
+const PROVIDER_URI = 'http://localhost';
+
+module.exports = {MNEMONIC, PROVIDER_URI};
